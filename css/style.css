@@ -2,3 +2,8 @@ body{
   margin: 0;
   padding: 0;
 }
+
+header{
+  background-color: #1d2c00;
+  font-size: 23px;
+}
